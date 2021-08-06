@@ -1,0 +1,6 @@
+__MACOSX
+.DS_Store
+*.sqlite3
+.idea/
+jctaxes.pkl
+
